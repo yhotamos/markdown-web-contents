@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "generatedAt": "2025-07-24T10:44:24.682Z",
+  "count": 1,
+  "posts": [
+    {
+      "id": "boykro37j5w",
+      "slug": "サンプル記事",
+      "title": "サンプル記事",
+      "date": "2025-07-24",
+      "updated": "2025-07-24",
+      "summary": "ここに本文を書きます．",
+      "tags": [],
+      "version": "1.0.0",
+      "contentPath": "content/blog/20250724_サンプル記事/index.md",
+      "contentSha256": "710a8fb259a3ab4cc91867f21523f7c4e2a6dd0a3fd11507d8e2f3ddd54aba2c",
+      "dirName": "20250724_サンプル記事"
+    }
+  ]
+}
